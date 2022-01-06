@@ -12,3 +12,7 @@ This is an example of a t-Stick patch. Please make sure to include this informat
 ## How to use
 
 Load up "Example Project" in Ableton. Start Libmapper and map the t-Stick to the exposed "Analog/F1_Freq/1" parameter.
+
+## License
+
+This example patch uses the [MIT license](https://opensource.org/licenses/MIT). Please choose a similarly permissive license for your patch.
