@@ -1,4 +1,4 @@
-# Template Patch
+# Example Patch
 
 This is an example of a t-Stick patch. Please make sure to include this information in your patch!
 
